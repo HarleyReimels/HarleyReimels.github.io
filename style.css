@@ -1,12 +1,23 @@
-body{
-  background-color: gray;
+body {
+  background-color: lightgray;
 }
-
+#temporary {
+  margin: auto;
+  width: 50%;
+  padding-left: 8%;
+}
+i {
+  padding-right: 2%;
+}
+.contact-me-buttons {
+  width: 100%;
+  padding-bottom: 2%;
+}
 .my-logo {
   height: 20%;
 }
 .my-sidebar {
-  background-color: gray;
+  background-color: lightgray;
 }
 .nav-link {
   margin: auto;
@@ -36,8 +47,8 @@ body{
   margin-top: 1px;
 }
 .profile-pic {
-    margin-top: 15%;
-    margin-right: 30%;
+  margin-top: 15%;
+  margin-right: 30%;
 }
 .title-header {
   font-size: 5rem;
@@ -56,34 +67,32 @@ h1 {
   width: 50%;
   margin-left: 25%;
 }
-.my-test-class{
-    display: flex;
+.my-test-class {
+  display: flex;
 }
 .header-box {
   text-align: center;
 }
-.about-me-pic{
-    float: right;
-
+.about-me-pic {
+  float: right;
 }
-.about-me-section{
-    height: fit-content;
+.about-me-section {
+  height: fit-content;
 }
-.about-me-story{
-    width: 80%;
-    font-size: larger;
+.about-me-story {
+  width: 80%;
+  font-size: larger;
 }
-.portfolio-section{
-    height: fit-content;
-    
+.portfolio-section {
+  height: fit-content;
 }
-.port-middle{
+.port-middle {
   text-align: center;
   display: inline-block;
   margin-right: 5rem;
   border: solid black 2px;
   margin-top: 2rem;
 }
-.anchor-pics{
+.anchor-pics {
   height: 100%;
 }
