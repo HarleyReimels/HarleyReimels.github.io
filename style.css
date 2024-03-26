@@ -1,0 +1,89 @@
+body{
+  background-color: gray;
+}
+
+.my-logo {
+  height: 20%;
+}
+.my-sidebar {
+  background-color: gray;
+}
+.nav-link {
+  margin: auto;
+}
+#menu {
+  margin: auto;
+}
+#my-menu {
+  margin-top: 25px;
+}
+.btn-group {
+  margin-bottom: 25px;
+  width: 120px;
+}
+.my-picture {
+  margin: auto;
+  width: 100%;
+}
+.bottom-side {
+  margin: auto;
+  bottom: 30px;
+}
+.author {
+  color: black;
+}
+.my-home {
+  margin-top: 1px;
+}
+.profile-pic {
+    margin-top: 15%;
+    margin-right: 30%;
+}
+.title-header {
+  font-size: 5rem;
+  padding-top: 15%;
+}
+.page-header {
+  height: 100vh;
+}
+.about-me-header {
+  font-size: 3rem;
+  margin-top: 3%;
+}
+h1 {
+  float: left;
+  margin: auto;
+  width: 50%;
+  margin-left: 25%;
+}
+.my-test-class{
+    display: flex;
+}
+.header-box {
+  text-align: center;
+}
+.about-me-pic{
+    float: right;
+
+}
+.about-me-section{
+    height: fit-content;
+}
+.about-me-story{
+    width: 80%;
+    font-size: larger;
+}
+.portfolio-section{
+    height: fit-content;
+    
+}
+.port-middle{
+  text-align: center;
+  display: inline-block;
+  margin-right: 5rem;
+  border: solid black 2px;
+  margin-top: 2rem;
+}
+.anchor-pics{
+  height: 100%;
+}
